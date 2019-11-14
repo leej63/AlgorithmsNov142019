@@ -1,0 +1,11 @@
+C:\People Tech Group\Algorithms\bin\Debug\netcoreapp2.2\Algorithms.deps.json
+C:\People Tech Group\Algorithms\bin\Debug\netcoreapp2.2\Algorithms.runtimeconfig.json
+C:\People Tech Group\Algorithms\bin\Debug\netcoreapp2.2\Algorithms.runtimeconfig.dev.json
+C:\People Tech Group\Algorithms\bin\Debug\netcoreapp2.2\Algorithms.dll
+C:\People Tech Group\Algorithms\bin\Debug\netcoreapp2.2\Algorithms.pdb
+C:\People Tech Group\Algorithms\obj\Debug\netcoreapp2.2\Algorithms.csprojAssemblyReference.cache
+C:\People Tech Group\Algorithms\obj\Debug\netcoreapp2.2\Algorithms.csproj.CoreCompileInputs.cache
+C:\People Tech Group\Algorithms\obj\Debug\netcoreapp2.2\Algorithms.AssemblyInfoInputs.cache
+C:\People Tech Group\Algorithms\obj\Debug\netcoreapp2.2\Algorithms.AssemblyInfo.cs
+C:\People Tech Group\Algorithms\obj\Debug\netcoreapp2.2\Algorithms.dll
+C:\People Tech Group\Algorithms\obj\Debug\netcoreapp2.2\Algorithms.pdb
